@@ -1,3 +1,6 @@
-| Left | Center | Right |
-|:-----|:------:|------:|
-| A    | B      | C     |
+<details>
+<summary>Click me</summary>
+
+Hidden content here
+
+</details>
