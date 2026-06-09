@@ -1,6 +1,14 @@
-<details>
-<summary>Click me</summary>
+> [!NOTE]
+> Note message
 
-Hidden content here
+> [!TIP]
+> Tip message
 
-</details>
+> [!IMPORTANT]
+> Important message
+
+> [!WARNING]
+> Warning message
+
+> [!CAUTION]
+> Danger message
