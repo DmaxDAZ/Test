@@ -1,2 +1,2 @@
 # Test
-| LOL |
+[Google](https://google.com)
