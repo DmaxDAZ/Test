@@ -1,14 +1,21 @@
-> [!NOTE]
-> Note message
+# Project Name
 
-> [!TIP]
-> Tip message
+## Description
 
-> [!IMPORTANT]
-> Important message
+## Features
 
-> [!WARNING]
-> Warning message
+## Installation
 
-> [!CAUTION]
-> Danger message
+## Usage
+
+## Configuration
+
+## Screenshots
+
+## API
+
+## Contributing
+
+## License
+
+## Credits
